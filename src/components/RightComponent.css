@@ -20,8 +20,14 @@ padding: 5px;
 
 }
 
+
+.main_section a:hover,.main_section a:active{
+    color:blue;
+    }
+
 .icon_Setting{
-    margin: 10px;
+    
+    margin: 11px;
     padding: 0px;
     
     display: inline-block;
