@@ -1,0 +1,27 @@
+
+.main_section_insight{
+    height: 464px;
+    background: lightgrey;
+margin-top: 15px;
+padding: 10px;
+}
+.Main_section_heading h2{
+    color: black;
+    font-weight: bold;
+font-size: 15px;
+}
+
+.Main_section_heading{
+    height: 30%;
+}
+
+.main_section_insight_div{
+    background: white;
+    width: 100%;
+
+}
+
+.ins{
+    margin: 10px;
+    display: block;
+}
