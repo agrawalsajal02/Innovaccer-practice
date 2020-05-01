@@ -42,7 +42,7 @@ function RightComponents() {
           <div class="main_name">
          <h2>Lawson,Joy</h2>
          <div>High Risk</div>     
-         <i class="fas fa-chevron-down" style={{"color":"grey"}}></i>
+         <i class="fas fa-chevron-down down"></i>
           </div>
           
           <div class="main_detail_options">
