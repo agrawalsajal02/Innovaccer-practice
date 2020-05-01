@@ -70,10 +70,10 @@ function RightComponents() {
 {/*  HEre comes the details page */}
           <div class='main_details'>
 <Switch>
-    <Route path='/user/insight' component={Insights}></Route>
-    <Route path='/user/caresummary' component={CareSummary}></Route>
-    <Route path='/user/referrals' component={Referrals}></Route>
-    <Route path='/user/meet' component={Meet}></Route>
+    <Route exactpath='/user/insight' component={Insights}></Route>
+    <Route exactpath='/user/caresummary' component={CareSummary}></Route>
+    <Route exactpath='/user/referrals' component={Referrals}></Route>
+    <Route exactpath='/user/meet' component={Meet}></Route>
 </Switch>
 
 
